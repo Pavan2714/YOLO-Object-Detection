@@ -24,3 +24,24 @@ Thumbs.db
 # IDE/project files
 .vscode/
 .idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Flask/Mac/Unix specific
+instance/
+*.sqlite3
+*.db
+
+# Test and coverage files
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
